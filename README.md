@@ -13,3 +13,5 @@ The code is yet to be optimised.
 ### [Fake News Classifier](https://github.com/d-saikrishna/NLP/blob/master/Classification/Fake_News_Classifier.ipynb) - An explainer for NLP beginners:
 Data obtained from [Kaggle](https://www.kaggle.com/c/fake-news)
 In this code, I explained basics of NLP text processing and used a simple Logistic Classification to predict fake news. 
+
+## [NER](https://github.com/d-saikrishna/NLP/tree/master/NER):
