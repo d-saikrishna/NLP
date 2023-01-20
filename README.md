@@ -15,3 +15,7 @@ Data obtained from [Kaggle](https://www.kaggle.com/c/fake-news)
 In this code, I explained basics of NLP text processing and used a simple Logistic Classification to predict fake news. 
 
 ## [NER](https://github.com/d-saikrishna/NLP/tree/master/NER):
+Notes on Named Entity Recognition(NER) in texts - with special focus on OpenNyai's NER in Indian Court Judgements.
+
+## [Summarization](https://github.com/d-saikrishna/NLP/tree/master/Summarization):
+Notes on Summarization of texts - with special focus on OpenNyai's Rhetorical Roles prediction and Summarization of Indian Court Judgements.
